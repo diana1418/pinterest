@@ -1,14 +1,14 @@
 * {
     box-sizing: border-box;
     font-family: 'Slabo 27px', serif;
-    
 }
 
 body {
 margin: 0;
 }
 
-/* styles for header*/
+/* header*/
+
 header {
     background-color: #FFF;
     position: fixed;
@@ -22,5 +22,5 @@ header ul{
     margin: 0;
     padding: 0;
     list-style: none;
-    
+
 }
