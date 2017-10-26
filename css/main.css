@@ -1,0 +1,26 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Slabo 27px', serif;
+    
+}
+
+body {
+margin: 0;
+}
+
+/* styles for header*/
+header {
+    background-color: #FFF;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    
+}
